@@ -6,10 +6,10 @@ Python Flask 기반의 웹 서비스를 팀 단위로 개발했습니다.
 ---
 
 ## 기술 스택
-Python  
-Flask  
-MySQL  
-Git  
+- Python  
+- Flask  
+- MySQL  
+- Git  
 
 ---
 
